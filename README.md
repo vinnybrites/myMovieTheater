@@ -2,8 +2,7 @@
 
 > under development
 
-#Collaborators
-<div>
-<img src="https:www.github.com/vinnybrites.png" alt="foto do Vinícius" style="width:500px;">
-<h3>Vinícius Brites</h3>
-</div>
+# Collaborators
+
+| [<img src="https://github.com/vinnybrites.png" width=115><br><sub>Vinícius Brites</sub>](https://github.com/vinnybrites) |  | [<img src="https://github.com/GiovaniiDias.png" width=115><br><sub>Giovani Dias</sub>](https://github.com/GiovaniiDias) |
+| :---: | :---: | :---: |
