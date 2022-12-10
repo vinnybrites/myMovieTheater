@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    padding: 2em;
+    justify-content: space-between;
+    align-items: center;
+    background-color: beige;
+}
+
+header ul{
+    display: flex;
+    list-style: none;
+}
+
+header li{
+    margin-left: 1em;
+}
+
+
+/* ------------------------------- */
+section{
+    margin: 3em;
+    display: flex;
+    justify-content: center;
+}
+
+.formulario-container{
+    width: 400px;
+    background-color: rgba(1, 1, 1, 0.142);
+    padding: 2em;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+
+form input{
+    margin-top: 8px;
+    margin-bottom: 2em;
+    padding: 1em;
+}
+
+button{
+    width: 100px;
+    padding: 1em;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(91, 193, 91, 0.642);
+    cursor: pointer;
+}
